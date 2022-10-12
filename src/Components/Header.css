@@ -1,0 +1,15 @@
+
+.Header{
+  margin-bottom: 2%;
+  padding: 5%;
+}
+
+ .Header-left{
+  float: left;
+ }
+  
+ .Header-right{
+  float: right;
+  color: red;
+ }
+  

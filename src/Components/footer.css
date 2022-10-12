@@ -1,0 +1,33 @@
+
+
+.footer {
+    
+   
+   
+  position: fixed;
+  left: 27%;
+  bottom: 1%;
+  width: 45%;
+ 
+ 
+  text-align: center;
+    
+  }  
+
+  
+
+  
+
+  .footer-left{
+    text-align: left;
+float: left;
+
+   
+  }
+  .footer-right{
+
+    float: right;
+    text-align: right;
+   
+  }
+  

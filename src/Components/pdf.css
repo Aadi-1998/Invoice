@@ -1,0 +1,13 @@
+.pdf{
+    /* align-content: center;
+    text-align: center;
+ position: absolute; */
+
+ position: fixed;
+ left: 27%;
+ bottom: 1%;
+ width: 45%;
+
+
+ text-align: center;
+}
